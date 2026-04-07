@@ -18,4 +18,4 @@ A Full stack web developer that focuses on building fast, modern, and scalable w
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kristanica&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> why is this not displaying my contributions?
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
