@@ -1,15 +1,6 @@
 <div align="center">
-
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61A8,100:FF2D78&height=200&section=header&text=Leewell%20M.%20Caputol&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<!-- Typing SVG Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+meaningful+web+experiences;Turning+ideas+into+digital+reality;Next.js+%7C+React+%7C+Laravel+%7C+Firebase;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-
-
 </div>
 # 💫 About Me:
 I'm **Leewell M. Caputol,** a passionate Web Developer with a strong interest in building user-friendly, efficient, and impactful web applications. I enjoy exploring and experimenting with modern web technologies, transforming creative ideas into functional digital experiences, and solving real-world problems through code. As a lifelong learner, I continuously strive to improve my skills and stay up to date with the ever-evolving technology industry. I am driven by curiosity, innovation, and a desire to create meaningful solutions that provide value to users.
@@ -30,13 +21,12 @@ I'm **Leewell M. Caputol,** a passionate Web Developer with a strong interest in
 
 ![](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)![](https://img.shields.io/badge/aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 
-# 📊 My Stats:
+
 <div align="center">
 
 ![](https://streak-stats.demolab.com/?user=kristanica&theme=catppuccin_mocha&hide_border=true)
 
 </div>
-
 
 <div align="center">
 
