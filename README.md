@@ -2,6 +2,7 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61A8,100:FF2D78&height=200&section=header&text=Leewell%20M.%20Caputol&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </div>
+
 # 💫 About Me:
 
 I'm **Leewell M. Caputol,** a passionate Web Developer with a strong interest in building user-friendly, efficient, and impactful web applications. I enjoy exploring and experimenting with modern web technologies, transforming creative ideas into functional digital experiences, and solving real-world problems through code. As a lifelong learner, I continuously strive to improve my skills and stay up to date with the ever-evolving technology industry. I am driven by curiosity, innovation, and a desire to create meaningful solutions that provide value to users.
