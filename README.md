@@ -2,7 +2,9 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61A8,100:FF2D78&height=200&section=header&text=Leewell%20M.%20Caputol&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </div>
+
 # 💫 About Me:
+
 I'm **Leewell M. Caputol,** a passionate Web Developer with a strong interest in building user-friendly, efficient, and impactful web applications. I enjoy exploring and experimenting with modern web technologies, transforming creative ideas into functional digital experiences, and solving real-world problems through code. As a lifelong learner, I continuously strive to improve my skills and stay up to date with the ever-evolving technology industry. I am driven by curiosity, innovation, and a desire to create meaningful solutions that provide value to users.
 
 - 🔭 **Currently working on:** **[Reflectify](https://github.com/kristanica/reflectify)** — a gamified learning platform that turns custom topics and files into interactive quiz sessions with XP, leveling, currency, and shop mechanics.
@@ -21,13 +23,13 @@ I'm **Leewell M. Caputol,** a passionate Web Developer with a strong interest in
 
 ![](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)![](https://img.shields.io/badge/aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 
-
+___
 <div align="center">
 
 ![](https://streak-stats.demolab.com/?user=kristanica&theme=catppuccin_mocha&hide_border=true)
 
 </div>
-
+___
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D78,100:FF61A8&height=120&section=footer" width="100%"/>
