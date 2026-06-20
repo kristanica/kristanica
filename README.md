@@ -29,10 +29,7 @@ ___
 ![](https://streak-stats.demolab.com/?user=kristanica&theme=catppuccin_mocha&hide_border=true)
 
 </div>
-___
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D78,100:FF61A8&height=120&section=footer" width="100%"/>
-
 </div>
