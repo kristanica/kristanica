@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm **Leewell M. Caputol,** a passionate Web Developer with a strong interest in building user-friendly, efficient, and impactful web applications. I enjoy exploring and experimenting with modern web technologies, transforming creative ideas into functional digital experiences, and solving real-world problems through code. As a lifelong learner, I continuously strive to improve my skills and stay up to date with the ever-evolving technology industry. I am driven by curiosity, innovation, and a desire to create meaningful solutions that provide value to users.
 
-- 🔭 **Currently working on:** **[Reflectify](https://github.com/kristanica/reflectify)** — a gamified learning platform that turns custom topics and files into interactive quiz sessions (Multiple Choice, True/False, Scenario, Identification) with XP, leveling, currency, and shop mechanics.
+- 🔭 **Currently working on:** **[Reflectify](https://github.com/kristanica/reflectify)** — a gamified learning platform that turns custom topics and files into interactive quiz sessions with XP, leveling, currency, and shop mechanics.
 - 🌱 **Currently learning:** Advanced **Next.js** (App Router, Server Actions, API routes, and Middleware optimization).
 -  💡 **Driven by:** Curiosity, clean code, and shipping things that actually matter to users
 - 📫 **How to reach me:**  [![email|59](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leewellcaputol21@gmail.com)| [![LinkedIn|57](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leewell-caputol-857903400) 
